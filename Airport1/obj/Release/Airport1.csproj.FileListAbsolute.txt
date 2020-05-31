@@ -1,0 +1,11 @@
+C:\Users\Danylo\source\repos\Airport1\Airport1\bin\Release\Airport1.exe.config
+C:\Users\Danylo\source\repos\Airport1\Airport1\bin\Release\Airport1.exe
+C:\Users\Danylo\source\repos\Airport1\Airport1\bin\Release\Airport1.pdb
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.csprojAssemblyReference.cache
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.adm.resources
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.Form1.resources
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.MainForm.resources
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.Properties.Resources.resources
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.csproj.GenerateResource.cache
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.exe
+C:\Users\Danylo\source\repos\Airport1\Airport1\obj\Release\Airport1.pdb
